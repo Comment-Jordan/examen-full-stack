@@ -1,3 +1,12 @@
+# Observaciones
+
+Al momento de crear el proyecto de laravel acepte por error que me incorporara el historico de commits del repositorio de laravel por lo que mi proyecto se asocio con el repositorio de laravel dificultandome subir mis commits al repositorio personal, por lo que opte en crear una nueva carpeta de .git perdiendo el historico de mis commits dejando unicamente el commit final que contiene el proyecto concluido y listo para su revisión, de ante mano una disculpa
+
+# TODO
+
+- Filtros de búsqueda
+- Mensajes flash
+
 # Examen Full Stack
 
 Este proyecto es un examen de desarrollo full stack. A continuación se describen los pasos para configurar y ejecutar el proyecto.
